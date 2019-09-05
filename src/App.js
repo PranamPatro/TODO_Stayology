@@ -39,7 +39,7 @@ class App extends Component {
             })}
           </ul>
         ) : (
-          <p>no data</p>
+          <p>no tasks in the list</p>
         )}
       </div>
     );
